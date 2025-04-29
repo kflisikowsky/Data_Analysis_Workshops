@@ -17,7 +17,7 @@ The final result (what you turn in) will be a link to REPO on GitHub, where your
 > After submitting the final version of the project, each project group is required to schedule a short **online meeting** with me to discuss it. The meeting is intended to confirm the self-performance of the work and allows you to ask any questions you may have about the analysis.
 
 
-| Section | Points | Description | Example |.
+| Section | Points | Description | Example |
 | :---------------: | :----: | :----------: | :--------: |
 | Introduction | 2 | What dataset are you looking at? Where/how was it created? What questions will be asked? | A dataset on real estate prices in Poland - prices and characteristics of the property (number of rooms, floor, city, furnishings, etc.)| | A dataset on the price of real estate in Poland.
 | Cleaning and organizing data | 4 | Data diagnostics; missing data - visualization, discussion, pattern, data errors and their repair, imputation of missing data, outlier observations - analysis. | Shadowmaps, heatmaps of deficiencies, discussion of the pattern, strategies for imputation of deficiencies, definition of rules for data, visualization of violations, repair, analysis of outliers with discussion. |
@@ -35,7 +35,7 @@ There are two critical requirements for a data set:
 
 With that in mind, here are some ideas for **appropriate data sets**. You can use one of them (and ask the questions you find interesting), but you can also find your own; these datasets have been **verified** a bit more.
 
-| Dataset | Domain | Description | Access | Access.
+| Dataset | Domain | Description | Access | Access |
 | :------: | :----: | :----------: | :-------: |
 | World Bank Open Data | Economics | Contains time series data for **many areas**, such as agricultural development, rural poverty, carbon emissions and many, many more. | [Data Bank Link](https://data.worldbank.org/); can be browsed by “indicator”; may require combining datasets for more information. |
 | [World Happiness Report](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021) | Economics | A dataset of global happiness scores; may need to be combined with other datasets to ask useful questions. | | [Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)| | Energy Consumption.
