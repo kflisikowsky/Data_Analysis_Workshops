@@ -27,7 +27,7 @@ My goal is that by the end of the course you will be able to:
 
 ### Teaching team
 
-- Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): University Professor in the Department of Statistics and Econometrics PG / SAD part 1. in the summer semester.
+- [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): University Professor in the Department of Statistics and Econometrics PG / SAD part 1. in the summer semester.
 
 #### Consultations
 
