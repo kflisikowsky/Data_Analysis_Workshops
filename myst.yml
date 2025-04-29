@@ -23,6 +23,8 @@ project:
         - file: final.md
     - file: 01-intro.ipynb
     - file: 02-intro.ipynb
+      children:
+        - file: 02-piping.ipynb
     - file: 03-git.ipynb
     - file: 04-markdown.ipynb
     - file: 05-dataviz-pyplot.ipynb
