@@ -4,13 +4,13 @@
 
 In the final project, your task will be to apply the **skills** acquired in this class to *exploratory data analysis* on a real data set (or data sets).
 
-You will work in a small group (2-3 people). I strongly encourage you to contact me for feedback on your ideas.
+You will work in a small group (2-3). I strongly encourage you to contact me for feedback on your ideas.
 
 ## Grading and results
 
 The final result (what you turn in) will be a link to REPO on GitHub, where your team will post all the project files: 
 
-- Jupyter notebook with the following sections (see table below); each section is worth a certain number of points, adding up to 20; **minimum** number of points to pass the project is 10 (see [grading scale](syllabus.md#grading-scale)).
+- Jupyter notebook with the following sections (see table below); each section is worth a certain number of points, adding up to 16; **minimum** number of points to pass the project is 10 (see [grading scale](syllabus.md#grading-scale)).
 - data (e.g., CSV files).
 - additional files, aesthetically published EDA reports in Markdown format (MD, HTML, PDF, etc.) are welcome.
 
@@ -42,7 +42,7 @@ With that in mind, here are some ideas for **appropriate data sets**. You can us
 | SCARFS (Spontaneous controlled acts of reference between friends and strangers) | Linguistics | Data on friends and strangers playing a game of **Taboo**, which clues they gave, and whether the attempt was successful. | [Link to GitHub](https://github.com/seantrott/scarfs) |
 | [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices) | Economics | Median home value information for various neighborhoods in California. | [Link on Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices) |
 | [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-por.csv) | Public Health | Information on student behavior, including alcohol consumption and more. | [Link on Kaggle](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?select=student-por.csv) |
-| [Datasets for projects with SAD](https://github.com/kflisikowsky/analiza_danych_projekt_zespolowy) | Various topics | Datasets designed for team projects on Analytics. Many collections, varying in difficulty level, with descriptions. | [Link to my GitHub](https://github.com/kflisikowsky/analiza_danych_projekt_zespolowy) |
+| [Datasets for projects with DA](https://github.com/kflisikowsky/analiza_danych_projekt_zespolowy) | Various topics | Datasets designed for team projects on Analytics. Many collections, varying in difficulty level, with descriptions. | [Link to my GitHub](https://github.com/kflisikowsky/analiza_danych_projekt_zespolowy) |
 
 ### Difficulty of the project
 
