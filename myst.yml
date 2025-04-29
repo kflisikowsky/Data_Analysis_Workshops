@@ -24,11 +24,12 @@ project:
     - file: 01-intro.ipynb
     - file: 02-intro.ipynb
     - file: 03-git.ipynb
-    - file: 04-dataviz-pyplot.ipynb
-    - file: 05-dataviz-seaborn.ipynb
-    - file: 06-dataviz-principles.ipynb
-    - file: 07-wrangling.ipynb
-    - file: 08-stats.ipynb
+    - file: 04-markdown.ipynb
+    - file: 05-dataviz-pyplot.ipynb
+    - file: 06-dataviz-seaborn.ipynb
+    - file: 07-dataviz-principles.ipynb
+    - file: 08-wrangling.ipynb
+    - file: 09-stats.ipynb
 site:
   template: book-theme
   options:
