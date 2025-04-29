@@ -17,8 +17,6 @@ project:
   github: https://github.com/kflisikowsky/Data_Analysis_Workshops
   toc:
     - file: README.md
-      title: Table of Contents
-      icon: book
     - file: 01-intro.ipynb
     - file: 01-paper.md
     - file: 02-notebook.ipynb
