@@ -24,6 +24,10 @@ The final result (what you turn in) will be a link to REPO on GitHub, where your
 | Descriptive analysis  |   4    | 2-3 descriptive analyses, relating to the research question(s). Each analysis should be accompanied by a brief (1-3 sentences) *interpretation*. | Tables of descriptive statistics - e.g., housing price statistics by various characteristics. It would be good if they were surrounded by visualizations on the same main topic. Correlation analysis - matrix of (linear) correlations. Correlation analysis of other types (rank, qualitative) - if there are such variables. Heatmaps. |
 | Conclusions           |   2    | Drawing conclusions about the dataset and the questions posed.                                   | General summary, final conclusions, limitations of the methods, suggestions for further development (modeling), etc. |
 
+### Deadline
+
+Please submit the final projects as link to your repository with already published EDA - team reports (as HTML, MD, PDF file) until 30/06/2025 23:59.
+
 
 ### Example datasets
 
