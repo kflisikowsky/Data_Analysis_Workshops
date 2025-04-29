@@ -1,2 +1,3 @@
-# Data_Analysis_Workshops
-Data Analysis Workshops - Skopje 2025
+# Data Analysis Workshops - Skopje 2025
+
+![Logo](logo.png)
