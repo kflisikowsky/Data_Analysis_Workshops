@@ -10,7 +10,6 @@ project:
   id: a0619353-1601-4d09-a7a7-358908d97f60
   title: Data Analysis with Python
   license: CC-BY-4.0
-  description: Statistical Data Analysis
   keywords: [data, statistics, data analysis, python]
   description: Workshops on Data Analysis with Python
   authors: [Karol Flisikowski]
