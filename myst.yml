@@ -1,18 +1,32 @@
 version: 1
 project:
+  jupyter:
+    lite: true
+    binder:
+      url: https://mybinder.org
+      repo: kflisikowsky/Data_Analysis_Workshops
+      ref: main
+      provider: github
   id: a0619353-1601-4d09-a7a7-358908d97f60
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: Data Analysis with Python
+  license: CC-BY-4.0
+  description: Statistical Data Analysis
+  keywords: [data, statistics, data analysis, python]
+  description: Workshops on Data Analysis with Python
+  authors: [Karol Flisikowski]
+  banner: banner.png
   github: https://github.com/kflisikowsky/Data_Analysis_Workshops
   toc:
     - file: README.md
+      title: Table of Contents
+      icon: book
     - file: 01-intro.ipynb
     - file: 01-paper.md
     - file: 02-notebook.ipynb
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    twitter: Karol_Flisik
+    favicon: sad.ico
+    logo: logo.jpg
+    extra_footer: "© 2025 Karol Flisikowski. All rights reserved."
