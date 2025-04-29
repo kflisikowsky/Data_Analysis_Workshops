@@ -17,9 +17,11 @@ project:
   github: https://github.com/kflisikowsky/Data_Analysis_Workshops
   toc:
     - file: README.md
+    - file: intro.md
+      children:
+        - file: syllabus.md
+        - file: final.md
     - file: 01-intro.ipynb
-    - file: 01-paper.md
-    - file: 02-notebook.ipynb
 site:
   template: book-theme
   options:
