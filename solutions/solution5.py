@@ -1,0 +1,1 @@
+df_pokemon[['Legendary', 'Defense']].groupby("Legendary").median()

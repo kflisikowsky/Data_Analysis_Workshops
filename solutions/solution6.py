@@ -1,0 +1,1 @@
+df_pokemon[['Type 1', 'HP']].groupby("Type 1").mean()
