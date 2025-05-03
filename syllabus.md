@@ -27,7 +27,7 @@ My goal is that by the end of the course you will be able to:
 
 ### Teaching team
 
-- [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): University Professor in the Department of Statistics and Econometrics PG / SAD part 1. in the summer semester.
+- [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): University Professor in the Department of Statistics and Econometrics PG / DA part 1. in the summer semester.
 
 #### Consultations
 
@@ -78,7 +78,7 @@ Instructors can be contacted as follows:
 - Private message via Discord.
 - E-mail.
 
-Join the SAD course Discord channel here: [SAD 2025 Discord channel](https://discord.gg/eEEhWjVV)
+Join the DA 2025 course Discord channel here: [DA 2025 Discord channel](https://discord.gg/eEEhWjVV)
 
 Please note that we generally prefer to communicate via Discord rather than email.
 
