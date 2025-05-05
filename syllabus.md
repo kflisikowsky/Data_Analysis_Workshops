@@ -78,7 +78,7 @@ Instructors can be contacted as follows:
 - Private message via Discord.
 - E-mail.
 
-Join the DA 2025 course Discord channel here: [DA 2025 Discord channel](https://discord.gg/eEEhWjVV)
+Join the DA 2025 course Discord channel here: [DA 2025 Discord channel](https://discord.gg/4f7XPQ64)
 
 Please note that we generally prefer to communicate via Discord rather than email.
 
