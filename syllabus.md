@@ -1,4 +1,4 @@
-# DA Syllabus: Summer 2025
+# DS Syllabus: Summer 2026
 
 ## Overall about the course
 
@@ -27,19 +27,19 @@ My goal is that by the end of the course you will be able to:
 
 ### Teaching team
 
-- [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): University Professor in the Department of Statistics and Econometrics PG / DA part 1. in the summer semester.
+- [Karol Flisikowski](https://pg.edu.pl/p/karol-flisikowski-20826): University Professor in the Department of Statistics and Econometrics PG.
 
 #### Consultations
 
 | Who | When | Where?                                                         |
 |--------------------|------------------------|-----------------------------|
-| Karol Flisikowski | Wednesdays 14-15 | [Online](https://calendly.com/flisik/konsultacje-office-hours) |
+| Karol Flisikowski | Wednesdays 12-13 | [Online](https://calendly.com/flisik/konsultacje-office-hours) |
 
 ## Final evaluation
 
 ### Final project
 
-Your final grade is based on completing a small group final project: [project details](final.md).
+Your final grade is based on all activitites & gradebook on Enauczanie (Moodle platform).
 
 ### Grading scale
 
@@ -49,12 +49,12 @@ Note that the number on the **right** side of the range *is not included* in the
 
 | Percentage | Rating |
 |:--------:|:---------------:|
-| \> 91% | 5.0 |
-| 84-91% | 4.5 |
-| 77-84% | 4.0 |
-| 70-77% | 3.5 |
+| > 94% | 5.0 |
+| 86-94% | 4.5 |
+| 79-86% | 4.0 |
+| 70-79% | 3.5 |
 | 60-70% | 3.0 |
-| | 60% | no credit |
+| < 60% | no credit |
 
 ### About rounding up
 
@@ -63,7 +63,7 @@ Please note that my policy is *not* to round grades up for two reasons:
 1. if rounding is applied selectively (i.e., only to listeners who request it), it is unfair to others.
 2. if rounding is applied universally, it simply redefines the boundary between two letter grades (e.g., making 87% the cutoff point for 4.5).
 
-### Late submission of a project
+### Late submission of a projects etc.
 
 Students may submit late assignments up to 48 hours after the submission deadline, earning 75% of the points they would have received (i.e., if they scored 90%, they will receive 67.5% with a late penalty).
 
@@ -74,11 +74,11 @@ Otherwise - in accordance with the regulations of the postgraduate program and t
 Instructors can be contacted as follows:
 
 - Office hours.
-- Public question on the Discord channel of the DA 2025 course.
+- Public question on the Discord channel of the DS 2026 course.
 - Private message via Discord.
 - E-mail.
 
-Join the DA 2025 course Discord channel here: [DA 2025 Discord channel](https://discord.gg/4f7XPQ64)
+Join the DS 2026 course Teams channel here: [DS 2026 Teams channel](https://teams.microsoft.com/l/team/19%3A36tBrdZjAuy68K1ca26M-_jOYGuA489DZC2kT-UrG3k1%40thread.tacv2/conversations?groupId=d5ea371a-49ea-417a-ba3d-0f74bd277dcb&tenantId=86760356-0022-486f-b793-a2d470bba5a5)
 
 Please note that we generally prefer to communicate via Discord rather than email.
 
