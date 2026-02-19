@@ -4,9 +4,9 @@ downloads:
     title: Intro PDF
 ---
 
-# Welcome to the DA 2025 course!
+# Welcome to the DS 2026 course!
 
-Data Analysis 2025 | Karol Flisikowski | Summer 2025 | UACS Skopje
+Descriptive Statistics 2026 | Karol Flisikowski | Summer 2026 | PG
 
 ## About the course
 
@@ -18,15 +18,9 @@ This course will teach you how to think about **data** and **visualization** for
 - What method of data visualization and analysis should I use for a given measurement scale of a variable?
 - How to make a statistical description of the sample for a given research problem?
 
-## Final grade
+## Workshops
 
-The final grade will be based on your [final project](final.md). 
-
-There is no final exam; see [syllabus](syllabus.md) for full course details.
-
-## Workshop
-
-Current workshops - edition **Summer 2025**. 
+Current workshops - edition **Summer 2026**. 
 
 The instructor is [Karol Flisikowski](https://www.flisikowski.eu/). 
 
@@ -34,7 +28,7 @@ E-mail: [karflisi@pg.edu.pl](mailto:karflisi@pg.edu.pl) | [karol@ctbu.edu.cn](ma
 
 ## Office hours 
 
-Online consultations - Wednesdays 2 - 3 pm - arranged through Calendly here: [link](https://calendly.com/flisik/konsultacje-office-hours)
+Online consultations - Wednesdays 12 - 13 pm - arranged through Calendly here: [link](https://calendly.com/flisik/konsultacje-office-hours)
 
 ## Topics
 
