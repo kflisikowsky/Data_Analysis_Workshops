@@ -14,7 +14,7 @@ project:
   description: Workshops on Data Analysis with Python
   authors: [Karol Flisikowski]
   banner: img/ds.png
-  github: https://github.com/kflisikowsky/Data_Analysis_Workshops
+  github: https://github.com/kflisikowsky/Descriptive_Statistics
   toc:
     - file: README.md
     - file: intro.md
