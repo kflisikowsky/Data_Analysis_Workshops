@@ -14,7 +14,7 @@ project:
   description: Workshops on Data Analysis with Python
   authors: [Karol Flisikowski]
   banner: img/ds.png
-  github: https://github.com/kflisikowsky/Data_Analysis_Workshops
+  github: https://github.com/kflisikowsky/Descriptive_Statistics
   toc:
     - file: README.md
     - file: intro.md
@@ -23,13 +23,22 @@ project:
     - file: 02-intro.ipynb
       children:
         - file: 02-piping.ipynb
+        - file: Ex1.ipynb
+        - file: Ex2.ipynb
+        - file: Ex3.ipynb
     - file: 03-git.ipynb
     - file: 04-markdown.ipynb
     - file: 05-dataviz-pyplot.ipynb
     - file: 06-dataviz-seaborn.ipynb
     - file: 07-dataviz-principles.ipynb
     - file: 08-wrangling.ipynb
-    - file: 09-stats.ipynb
+      children:
+        - file: a_guide_to_na.ipynb
+    - file: 09-univariate.ipynb
+    - file: 10-bivariate.ipynb
+    - file: 11-multiariate.ipynb
+    - file: 12-ts-analysis.ipynb
+    - file: 13-ts-models.ipynb
 site:
   template: book-theme
   options:
