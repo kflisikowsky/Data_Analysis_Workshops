@@ -31,7 +31,11 @@ project:
     - file: 08-wrangling.ipynb
       children:
         - file: a_guide_to_na.ipynb
-    - file: 09-stats.ipynb
+    - file: 09-univariate.ipynb
+    - file: 10-bivariate.ipynb
+    - file: 11-multiariate.ipynb
+    - file: 12-ts-analysis.ipynb
+    - file: 13-ts-models.ipynb
 site:
   template: book-theme
   options:
