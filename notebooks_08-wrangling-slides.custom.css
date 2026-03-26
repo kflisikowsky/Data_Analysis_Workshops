@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+:root {
+  --deck-ink: #152238;
+  --deck-accent: #006d77;
+  --deck-accent-soft: #83c5be;
+  --deck-highlight: #ee9b00;
+  --deck-panel: rgba(255, 255, 255, 0.88);
+}
+
+body {
+  background:
+    radial-gradient(circle at 10% 14%, rgba(0, 109, 119, 0.14) 0%, rgba(0, 109, 119, 0) 34%),
+    radial-gradient(circle at 86% 84%, rgba(238, 155, 0, 0.16) 0%, rgba(238, 155, 0, 0) 28%),
+    linear-gradient(130deg, #eef6fb 0%, #fdfcf8 100%);
+}
+
+.reveal {
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  color: var(--deck-ink);
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+/* Keep Reveal layout intact; style only currently visible slides. */
+.reveal .slides section.present,
+.reveal .slides section.present section {
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: var(--deck-panel);
+  border: 1px solid rgba(0, 109, 119, 0.15);
+  border-radius: 18px;
+  box-shadow: 0 14px 38px rgba(21, 34, 56, 0.12);
+  padding: 1.1rem 1.25rem !important;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+  color: #0e3b47;
+}
+
+.reveal h1 {
+  font-size: 2.35rem;
+  border-bottom: 3px solid rgba(0, 109, 119, 0.24);
+  padding-bottom: 0.35rem;
+}
+
+.reveal h2 {
+  font-size: 1.8rem;
+}
+
+.reveal h3 {
+  font-size: 1.35rem;
+}
+
+.reveal strong {
+  color: #0c5962;
+}
+
+.reveal pre,
+.reveal code {
+  max-height: none !important;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+.reveal pre {
+  border-left: 4px solid var(--deck-accent-soft);
+  border-radius: 10px;
+  padding: 0.6rem !important;
+  background: #f4fbfc !important;
+}
+
+.reveal table {
+  border-collapse: collapse;
+}
+
+.reveal table th {
+  background: rgba(0, 109, 119, 0.12);
+}
+
+.reveal table th,
+.reveal table td {
+  border: 1px solid rgba(21, 34, 56, 0.18) !important;
+  padding: 0.36rem 0.5rem !important;
+}
+
+.reveal .controls,
+.reveal .progress,
+.reveal .slide-number {
+  filter: drop-shadow(0 2px 8px rgba(20, 20, 20, 0.18));
+}
+
+.reveal .progress span {
+  background: linear-gradient(90deg, var(--deck-accent), var(--deck-highlight));
+}
+
+/* Hide notebook warning/error stream outputs in presentation mode. */
+.reveal .jp-RenderedText[data-mime-type='application/vnd.jupyter.stderr'] {
+  display: none !important;
+}
+
+
