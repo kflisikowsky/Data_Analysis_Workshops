@@ -29,6 +29,8 @@ project:
     - file: 06-dataviz-seaborn.ipynb
     - file: 07-dataviz-principles.ipynb
     - file: 08-wrangling.ipynb
+      children:
+        - file: a_guide_to_na.ipynb
     - file: 09-stats.ipynb
 site:
   template: book-theme
