@@ -23,6 +23,9 @@ project:
     - file: 02-intro.ipynb
       children:
         - file: 02-piping.ipynb
+        - file: Ex1.ipynb
+        - file: Ex2.ipynb
+        - file: Ex3.ipynb
     - file: 03-git.ipynb
     - file: 04-markdown.ipynb
     - file: 05-dataviz-pyplot.ipynb
